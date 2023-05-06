@@ -1,0 +1,21 @@
+使用MVP架構
+
+Model:
+GameForm裡一開始宣告的變數
+int nowPlayer, circlePlayer;	//存取現在輪到誰，以及從設定視窗傳入之圈圈玩家
+int** record;					//紀錄遊戲資料
+DateTime timeStart;				//紀錄遊戲開始之時間
+String^ player1;				//紀錄玩家1的名字
+String^ player2;				//紀錄玩家2的名字
+
+OverForm裡一開始宣告的變數
+TimeSpan endTime;
+String^ player1;
+String^ player2;
+
+View:
+由WindowsForm自動產生的程式碼，三個檔案底下都有
+Windows Form Designer generated code，裡面的內容皆屬於View
+
+Presenter:
+不同行為下會觸發的函式，例如buttonClick or buttonEnter的函式

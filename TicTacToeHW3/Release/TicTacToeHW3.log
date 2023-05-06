@@ -1,0 +1,62 @@
+﻿  GameForm.cpp
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(445,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(448,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(479,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(482,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(513,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(516,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(547,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(550,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(581,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(584,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(615,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(618,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(649,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(652,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(683,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(686,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(717,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(720,39): warning C4129: 'c': 無法辨識的字元逸出序列
+  OverForm.cpp
+  SettingForm.cpp
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(445,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(448,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(479,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(482,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(513,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(516,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(547,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(550,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(581,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(584,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(615,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(618,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(649,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(652,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(683,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(686,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(717,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(720,39): warning C4129: 'c': 無法辨識的字元逸出序列
+  useMain.cpp
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(445,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(448,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(479,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(482,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(513,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(516,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(547,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(550,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(581,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(584,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(615,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(618,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(649,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(652,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(683,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(686,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(717,39): warning C4129: 'c': 無法辨識的字元逸出序列
+D:\Yuan\OOP\Homework\TicTacToeHW3\TicTacToeHW3\GameForm.h(720,39): warning C4129: 'c': 無法辨識的字元逸出序列
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在產生程式碼...
+  GameForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  TicTacToeHW3.vcxproj -> D:\Yuan\OOP\Homework\TicTacToeHW3\Release\TicTacToeHW3.exe
